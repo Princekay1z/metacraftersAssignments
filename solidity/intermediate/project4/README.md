@@ -8,4 +8,12 @@ The contract is also verified
 
 ## AUTHORED BY PRINCE KAYKAY MAN
 
+access control functionality for the contract deployer exists (only contract owner can mint)
+
+users can check the price of the lexus and range rover supercars
+
+users can race with these cars in the degen game
+
+critics can check the smart contract source code here and on snowtrace
+
 ## LICENSE OPEN SOURCE (MIT)
